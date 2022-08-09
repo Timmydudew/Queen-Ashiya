@@ -39,31 +39,31 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Timmy']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['Issëï Hyødøü']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '2348050261876'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Timmy'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = 'Issëï Hyødøü'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = 'Issëï Hyødøü.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://github.com/Timmydudew'
 
-global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
+global.region = 'Nigeria, portharcourt, estate'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://github.com/Timmydudew/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = 'Issëï Hyødøü'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = 'Timmy sticker'
 
-global.sessionName = 'session'
+global.sessionName = 'load'
 
 global.prefa = ['','!','.','❄','🖤','☃']
 
